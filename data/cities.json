@@ -35,6 +35,174 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Torrefeta i Florejacs",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-21T16:57:43.468Z",
+      "notes": "",
+      "position": {
+        "lat": "41.80407814427237",
+        "lng": "1.2414550781250002"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Torrefeta i Florejacs",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-21T16:57:43.468Z",
+      "notes": "",
+      "position": {
+        "lat": "41.80407814427237",
+        "lng": "1.2414550781250002"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Torrefeta i Florejacs",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-21T16:57:43.468Z",
+      "notes": "",
+      "position": {
+        "lat": "41.80407814427237",
+        "lng": "1.2414550781250002"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Saint-Andre-de-Cruzieres",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-21T16:58:25.793Z",
+      "notes": "",
+      "position": {
+        "lat": "44.33170718680922",
+        "lng": "4.207763671875001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Dun",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-21T16:58:34.981Z",
+      "notes": "",
+      "position": {
+        "lat": "43.04480541304369",
+        "lng": "1.7687988281250002"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Dun",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-21T16:58:34.981Z",
+      "notes": "",
+      "position": {
+        "lat": "43.04480541304369",
+        "lng": "1.7687988281250002"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Dun",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-21T16:58:34.981Z",
+      "notes": "",
+      "position": {
+        "lat": "43.04480541304369",
+        "lng": "1.7687988281250002"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Dun",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-21T16:58:34.981Z",
+      "notes": "",
+      "position": {
+        "lat": "43.04480541304369",
+        "lng": "1.7687988281250002"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Dun",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-21T16:58:34.981Z",
+      "notes": "",
+      "position": {
+        "lat": "43.04480541304369",
+        "lng": "1.7687988281250002"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-10-21T16:59:07.062Z",
+      "notes": "",
+      "position": {
+        "lat": "40.111688665595956",
+        "lng": "32.82714843750001"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Orp-Jauche",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2024-10-21T17:03:11.680Z",
+      "notes": "",
+      "position": {
+        "lat": "50.68775800806201",
+        "lng": "4.965820312500001"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Arhansus",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-21T17:08:55.920Z",
+      "notes": "",
+      "position": {
+        "lat": "43.25320494908846",
+        "lng": "-1.0327148437500002"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Orrios",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-21T17:10:46.122Z",
+      "notes": "",
+      "position": {
+        "lat": "40.58058466412764",
+        "lng": "-0.9558105468750001"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Sauveterre-de-Comminges",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-21T17:11:41.965Z",
+      "notes": "",
+      "position": {
+        "lat": "43.03677585761058",
+        "lng": "0.670166015625"
+      },
+      "id": 98443211
     }
   ]
 }

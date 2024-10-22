@@ -37,28 +37,40 @@
       "id": 98443207
     },
     {
-      "cityName": "Orrios",
+      "cityName": "Lakuntza",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2024-10-21T17:10:46.122Z",
+      "date": "2024-10-22T16:58:11.190Z",
       "notes": "",
       "position": {
-        "lat": "40.58058466412764",
-        "lng": "-0.9558105468750001"
-      },
-      "id": 98443210
-    },
-    {
-      "cityName": "Sauveterre-de-Comminges",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-10-21T17:11:41.965Z",
-      "notes": "",
-      "position": {
-        "lat": "43.03677585761058",
-        "lng": "0.670166015625"
+        "lat": "42.93229601903058",
+        "lng": "-2.0324707031250004"
       },
       "id": 98443211
+    },
+    {
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-22T16:58:39.730Z",
+      "notes": "",
+      "position": {
+        "lat": "28.648415182054357",
+        "lng": "77.18994140625"
+      },
+      "id": 98443212
+    },
+    {
+      "cityName": "Saint-Jean-du-Falga",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-22T17:02:49.255Z",
+      "notes": "",
+      "position": {
+        "lat": "43.08493742707595",
+        "lng": "1.6149902343750002"
+      },
+      "id": 98443213
     }
   ]
 }

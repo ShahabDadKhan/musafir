@@ -23,7 +23,7 @@ export function convertToEmoji(countryCode) {
 const BASE_URL = "https://api.bigdatacloud.net/data/reverse-geocode-client";
 
 function Form() {
-  const { lat, lng } = useUrlPosition();
+  const [lat, lng] = useUrlPosition();
   const [isLoadingGeocoding, setIsLoadingGeocoding] = useState(false);
   const [cityName, setCityName] = useState("");
   const [country, setCountry] = useState("");
@@ -83,8 +83,10 @@ function Form() {
     navigate("/app/cities");
   }
   if (isLoadingGeocoding) return <Spinner />;
+  console.log("====", lat, lng);
   if (!lat && !lng)
     return <Message message="Start by clicking somewhere on the map" />;
+  console.log("+++");
   if (geocodingError) return <Message message={geocodingError} />;
 
   return (
